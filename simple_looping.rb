@@ -28,8 +28,6 @@ def times_iterator(number_of_times)
     puts phrase
   end
 
-  end
-
 end
 
 def while_iterator(number_of_times)
